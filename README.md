@@ -22,4 +22,4 @@ Java, SpringBoot, Thymeleaf, JQuery, OracleDBを使ったWebアプリケーシ�
 タグごとの検索
 ![78caa72fb53ac7d0d2ec828a99bfedfb](https://github.com/hyt-fjwr/spring_book_management_application/assets/133951156/69b4a13f-5673-4e9f-a2d9-894a019f192e)
 ページネーション
-![78caa72fb53ac7d0d2ec828a99bfedfb](https://github.com/hyt-fjwr/spring_book_management_application/assets/133951156/c9c368bc-f7b6-4428-868c-1cdc406e7fa1)
+![52fe72fb9f0c886a59fb269778270f53](https://github.com/hyt-fjwr/spring_book_management_application/assets/133951156/4a955307-d627-4b9e-b713-e51d01c3e8e5)
